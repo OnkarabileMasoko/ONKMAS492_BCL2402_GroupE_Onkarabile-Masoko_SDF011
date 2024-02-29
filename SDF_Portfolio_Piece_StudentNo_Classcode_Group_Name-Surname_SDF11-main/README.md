@@ -1,16 +1,3 @@
-# Installation
+My Presentation slides
 
-```
-# Install dependencies
-npm install
-
-# Start the development server with live preview using Browsersync
-npm run browsersync
-
-# Compile Tailwind CSS
-npm run build
-
-# Compile Tailwind CSS minified
-npm run build-minify
-
-```
+https://docs.google.com/presentation/d/1Y9f0SNikfyTLPY6DP3Unom5k7YiYxxgXlY8MpyNTTOo/edit#slide=id.g3f7ec1d4ea_0_10
